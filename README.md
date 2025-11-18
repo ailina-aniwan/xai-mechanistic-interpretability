@@ -22,3 +22,7 @@ The accompanying Google Colab notebook walks through the complete workflow:
 ### How to Use
 
 Click the Colab badge above to open and run the notebook interactively. All code cells, visualizations, and explanations are included directly in the notebook to provide a clear, narrative walkthrough of the interpretability analysis.
+
+### AI Citation
+
+AI tools (ChatGPT, GPT-5) were used to support parts of this assignment. Specific uses and citations are documented within the notebook cells.
